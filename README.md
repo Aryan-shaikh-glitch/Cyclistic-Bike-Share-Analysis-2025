@@ -1,7 +1,7 @@
 # 🚴 Cyclistic Bike Share Analysis 2025
 
 ## 📌 Project Overview
-Analysis of 5.5 million Cyclistic bike share rides to identify behavioral differences between casual riders and annual members, with the goal of designing marketing strategies to convert casual riders into members.
+Analysis of 5.5 million Cyclistic bike share rides completed as part of the Google Data Analytics Certificate capstone project. The goal was to identify behavioral differences between casual riders and annual members, and provide data-driven marketing recommendations to convert casual riders into annual members.
 
 ## 🛠️ Tools Used
 - **Microsoft Excel** — Initial data exploration
